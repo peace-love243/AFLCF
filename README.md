@@ -12,6 +12,8 @@ complementary advantages of multiple features, obtaining a robust object represe
 five challenging visual tracking benchmarks demonstrate the superiority of AFLCF over other state-of-the-art methods. For example, AFLCF achieves 
 a gain of 1.9% and 4.4% AUC score on LaSOT compared to ECO and STRCF, respectively.
 ![pipeline](./structure1.png)
+
+
 # Publication
 Hongtao Yu and Pengfei Zhu.  
 Adaptive Correlation Filters Feature Fusion Learning for Visual Tracking.
